@@ -1,6 +1,6 @@
 ## Welcome to Adamtimmy's page 
 
-You can go to [adamtimmy's scratch profile](scratch.mit.edu) for more information.
+You can go to [adamtimmy's scratch profile](https://scratch.mit.edu/users/AdamTimmy/) for more information.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
