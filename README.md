@@ -1,9 +1,8 @@
 ## Welcome to Adamtimmy's page 
 
-You can go to [adamtimmy's scratch profile](https://scratch.mit.edu/users/AdamTimmy/) for more information.
+Adamtimmy are twins who code on Scratch. You can go to [adamtimmy's scratch profile](https://scratch.mit.edu/users/AdamTimmy/) for more information about them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Make sure to follow them!
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
